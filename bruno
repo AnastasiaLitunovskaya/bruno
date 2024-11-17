@@ -1,0 +1,6 @@
+touch test.txt
+echo "hello world
+     what a wonderful
+     who created this world?" >> test.txt
+
+cat test.txt | grep -n world
