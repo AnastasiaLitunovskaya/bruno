@@ -4,3 +4,6 @@ echo "hello world
      who created this world?" >> test.txt
 
 cat test.txt | grep -n world
+123
+345
+678
